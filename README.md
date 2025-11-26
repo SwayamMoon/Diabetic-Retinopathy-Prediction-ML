@@ -1,9 +1,13 @@
-<p align="center">
+## 🛠 Tech Stack
+
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-WebApp-red?logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Project-green?logo=github" />
-  <img src="https://img.shields.io/github/license/SwayamMoon/Diabetic-Retinopathy-Prediction-ML" />
-  <img src="https://img.shields.io/github/stars/SwayamMoon/Diabetic-Retinopathy-Prediction-ML?style=social" />
+  <img src="https://img.shields.io/badge/Numpy-Data-blue?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-yellow?logo=pandas" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML%20Model-orange?logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/CatBoost-Classifier-orange?logo=catboost" />
+  <img src="https://img.shields.io/badge/Streamlit-WebApp-red?logo=streamlit" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter" />
 </p>
 
 # 🩺 Diabetic Retinopathy Prediction – Machine Learning Project (P600)
