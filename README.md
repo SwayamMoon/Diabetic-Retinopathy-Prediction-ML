@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-WebApp-red?logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Project-green?logo=github" />
+  <img src="https://img.shields.io/github/license/SwayamMoon/Diabetic-Retinopathy-Prediction-ML" />
+  <img src="https://img.shields.io/github/stars/SwayamMoon/Diabetic-Retinopathy-Prediction-ML?style=social" />
+</p>
 # 🩺 Diabetic Retinopathy Prediction – Machine Learning Project (P600)
 
 A complete end-to-end Machine Learning project developed to predict **Diabetic Retinopathy** using clinical health indicators. This project includes data preprocessing, EDA, feature engineering, model development, evaluation, and deployment using a fully interactive **Streamlit web application**.
