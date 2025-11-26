@@ -188,7 +188,7 @@ Creator of the *P600 – Diabetic Retinopathy Prediction System*
 
 📧 Email: swayammoon9373@gmail.com  
 🌐 GitHub: [SwayamMoon](https://github.com/SwayamMoon)  
-💼 LinkedIn: https://www.linkedin.com/in/swayammoon
+💼 LinkedIn: [https://www.linkedin.com/in/swayammoon](https://www.linkedin.com/in/swayam-moon-374373238?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 If you found this project helpful, consider giving it a ⭐ on GitHub!
 
