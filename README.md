@@ -180,15 +180,44 @@ streamlit run app.py
 </p>
 ---
 
-## 👤 Author
+---
 
-**Swayam Moon**  
-Machine Learning & Data Science Enthusiast  
-Creator of the *P600 – Diabetic Retinopathy Prediction System*
+## 👤 **Author – Swayam Moon**
 
-📧 Email: swayammoon9373@gmail.com  
-🌐 GitHub: [SwayamMoon](https://github.com/SwayamMoon)  
-💼 LinkedIn: [https://www.linkedin.com/in/swayammoon](https://www.linkedin.com/in/swayam-moon-374373238?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+<p align="left">
+  <img src="https://img.shields.io/badge/Created%20By-Swayam%20Moon-blueviolet?style=for-the-badge" />
+</p>
 
-If you found this project helpful, consider giving it a ⭐ on GitHub!
+Hi! I'm **Swayam Moon**, a passionate **Machine Learning & Data Science Enthusiast** who loves building real-world ML solutions—especially healthcare-related prediction systems.  
+I focus on creating fully functional, deployment-ready ML apps with clean structure & professional workflows.
+
+---
+
+### 🌟 **About Me**
+- 🎯 Focus Areas: Machine Learning, Healthcare Analytics, Model Deployment  
+- 🧠 Skills: Python, Pandas, NumPy, EDA, Streamlit, CatBoost, Scikit-Learn  
+- 🧩 Interests: Problem Solving, End-to-End DS Pipelines, UI/UX for ML Apps  
+- 🚀 Always learning & improving  
+
+---
+
+### 🔗 **Connect With Me**
+
+<p align="left">
+  <a href="mailto:swayammoon9373@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-swayammoon9373%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/SwayamMoon" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-SwayamMoon-black?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/swayam-moon-374373238" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Swayam%20Moon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ *If you found this project helpful or impressive, please consider giving it a star — it motivates me to build more amazing ML projects!* ⭐
 
