@@ -1,1 +1,0 @@
-"# diabetic-retinopathy-prediction-ml" 
