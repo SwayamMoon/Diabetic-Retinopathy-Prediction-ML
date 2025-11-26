@@ -5,9 +5,39 @@
   <img src="https://img.shields.io/github/license/SwayamMoon/Diabetic-Retinopathy-Prediction-ML" />
   <img src="https://img.shields.io/github/stars/SwayamMoon/Diabetic-Retinopathy-Prediction-ML?style=social" />
 </p>
+
 # 🩺 Diabetic Retinopathy Prediction – Machine Learning Project (P600)
 
 A complete end-to-end Machine Learning project developed to predict **Diabetic Retinopathy** using clinical health indicators. This project includes data preprocessing, EDA, feature engineering, model development, evaluation, and deployment using a fully interactive **Streamlit web application**.
+
+## 🚀 Key Features
+
+### ✔ End-to-End Machine Learning Pipeline
+Complete workflow including data cleaning, preprocessing, EDA, feature engineering, model building, and evaluation.
+
+### ✔ High-Accuracy Prediction Model
+Implemented and evaluated multiple ML models.  
+Final selected model: **CatBoost Classifier** (excellent performance on structured medical data).
+
+### ✔ Fully Deployed Web Application
+Interactive **Streamlit web app** for real-time Diabetic Retinopathy prediction using user input values.
+
+### ✔ Clean & Professional Project Structure
+Organized into:
+- `Dataset/`
+- `Notebooks/`
+- `Models/`
+- `App/`
+- `assets/images/`
+
+### ✔ Dataset of 6000 Patients
+Balanced medical dataset with features like age, blood pressure, cholesterol, prognosis, etc.
+
+### ✔ Visual Output
+Prediction results + probability chart displayed interactively.
+
+### ✔ Production-Ready Code
+Reusable model pipeline, modular code, and environment setup using `requirements.txt`.
 
 ---
 
