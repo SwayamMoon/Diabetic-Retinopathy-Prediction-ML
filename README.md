@@ -190,6 +190,12 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## 🚀 Future Improvements
+- Add CNN model for image-based detection  
+- Improve Streamlit UI  
+- Add login system & database  
+- Cloud deployment  
+- Add SHAP explainability  
 
 ---
 
