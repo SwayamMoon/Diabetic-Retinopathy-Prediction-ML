@@ -228,8 +228,8 @@ I focus on creating fully functional, deployment-ready ML apps with clean struct
 ---
 
 ### 🌟 **About Me**
-- 🎯 Focus Areas: Machine Learning, Healthcare Analytics, Model Deployment  
-- 🧠 Skills: Python, Pandas, NumPy, EDA, Streamlit, CatBoost, Scikit-Learn  
+- 🎯 Focus Areas: Data Science, Machine Learning, Healthcare Analytics, Model Deployment  
+- 🧠 Skills: HTML, CSS, Python, Pandas, NumPy, EDA, Streamlit, CatBoost, Scikit-Learn  
 - 🧩 Interests: Problem Solving, End-to-End DS Pipelines, UI/UX for ML Apps  
 - 🚀 Always learning & improving  
 
