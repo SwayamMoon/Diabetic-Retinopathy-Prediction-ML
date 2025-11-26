@@ -104,4 +104,21 @@ The project includes a fully interactive **Streamlit web app** where users can e
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 
+
+---
+
+## 📸 Application Screenshots
+
+<p align="center">
+  <img src="assets/images/app_ui.png" width="600" />
+</p>
+
+<p align="center">
+  <img src="assets/images/app_ss.png" width="600" />
+</p>
+
+<p align="center">
+  <img src="assets/images/app_ss2.png" width="600" />
+</p>
