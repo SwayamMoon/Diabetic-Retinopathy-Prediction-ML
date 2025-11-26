@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/P600%20-RETINOPATHY%20PREDICTION-blueviolet?style=for-the-badge" />
+</p>
+
+<h1 align="center">🩺 Diabetic Retinopathy Prediction (P600 Machine Learning Project)</h1>
+
+<p align="center">
+   Predicting diabetic retinopathy using clinical features with an end-to-end ML pipeline and Streamlit web deployment.
+</p>
+
 ## 🛠 Tech Stack
 
 <p align="left">
@@ -9,10 +19,6 @@
   <img src="https://img.shields.io/badge/Streamlit-WebApp-red?logo=streamlit" />
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter" />
 </p>
-
-# 🩺 Diabetic Retinopathy Prediction – Machine Learning Project (P600)
-
-A complete end-to-end Machine Learning project developed to predict **Diabetic Retinopathy** using clinical health indicators. This project includes data preprocessing, EDA, feature engineering, model development, evaluation, and deployment using a fully interactive **Streamlit web application**.
 
 ## 🚀 Key Features
 
@@ -65,6 +71,18 @@ Reusable model pipeline, modular code, and environment setup using `requirements
 - Machine Learning  
 - Classification Model  
 - Healthcare Analytics  
+
+## 🔄 Project Workflow
+Business Understanding →
+Data Collection →
+Data Cleaning & Preprocessing →
+EDA & Insights →
+Feature Engineering →
+Model Building (LR, RF, CatBoost) →
+Model Evaluation →
+Best Model Selection (CatBoost) →
+Streamlit Deployment →
+Final Web Application
 
 
 ## 🚀 Project Overview
