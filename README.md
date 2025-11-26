@@ -40,6 +40,28 @@ Prediction results + probability chart displayed interactively.
 Reusable model pipeline, modular code, and environment setup using `requirements.txt`.
 
 ---
+## 🛠 Tech Stack
+
+**Languages & Libraries**
+- Python  
+- NumPy  
+- Pandas  
+- Matplotlib / Seaborn  
+- Scikit-Learn  
+- CatBoost  
+- Streamlit  
+
+**Tools & Platforms**
+- Git & GitHub  
+- VS Code  
+- Jupyter Notebook  
+- Windows 10  
+
+**Project Type**
+- Machine Learning  
+- Classification Model  
+- Healthcare Analytics  
+
 
 ## 🚀 Project Overview
 
