@@ -99,10 +99,6 @@ CatBoost provided the best balance of accuracy and generalization.
 
 The project includes a fully interactive **Streamlit web app** where users can enter patient clinical values and get real-time predictions.
 
-## Deployment (Streamlit Web App)
-
-The project includes a fully interactive Streamlit web app where users can enter patient clinical values and get real-time predictions.
-
 ### Run locally:
 
 ```bash
