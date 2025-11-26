@@ -222,7 +222,7 @@ streamlit run app.py
   <img src="https://img.shields.io/badge/Created%20By-Swayam%20Moon-blueviolet?style=for-the-badge" />
 </p>
 
-Hi! I'm **Swayam Moon**, a passionate **Machine Learning & Data Science Enthusiast** who loves building real-world ML solutions—especially healthcare-related prediction systems.  
+Hi! I'm **Swayam Moon**, i'm Computer Scicence Engineer a passionate **Machine Learning & Data Science Enthusiast** who loves building real-world ML solutions—especially healthcare-related prediction systems.  
 I focus on creating fully functional, deployment-ready ML apps with clean structure & professional workflows.
 
 ---
