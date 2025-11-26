@@ -178,3 +178,17 @@ streamlit run app.py
 <p align="center">
   <img src="assets/images/app_ss2.png" width="600" />
 </p>
+---
+
+## 👤 Author
+
+**Swayam Moon**  
+Machine Learning & Data Science Enthusiast  
+Creator of the *P600 – Diabetic Retinopathy Prediction System*
+
+📧 Email: swayammoon9373@gmail.com  
+🌐 GitHub: [SwayamMoon](https://github.com/SwayamMoon)  
+💼 LinkedIn: https://www.linkedin.com/in/swayammoon
+
+If you found this project helpful, consider giving it a ⭐ on GitHub!
+
