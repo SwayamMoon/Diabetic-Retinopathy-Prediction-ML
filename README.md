@@ -84,6 +84,16 @@ Best Model Selection (CatBoost) →
 Streamlit Deployment →
 Final Web Application
 
+## 📂 Project Folder Structure
+📁 Diabetic-Retinopathy-Prediction
+│── 📄 README.md
+│── 📄 requirements.txt
+│── 📁 App/
+│── 📁 Dataset/
+│── 📁 Models/
+│── 📁 Notebooks/
+│── 📁 assets/images/
+
 
 ## 🚀 Project Overview
 
