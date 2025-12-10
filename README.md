@@ -253,5 +253,12 @@ I focus on creating fully functional, deployment-ready ML apps with clean struct
 
 ---
 
+<p align="center">
+  Passionate about Machine Learning, Data Analytics, Automation, and Real-world Problem Solving.<br>
+ This project assign by <b> ExcelR – As a Data Science Intern</b>.
+</p>
+
+---
+
 ⭐ *If you found this project helpful or impressive, please consider giving it a star — it motivates me to build more amazing ML projects!* ⭐
 
